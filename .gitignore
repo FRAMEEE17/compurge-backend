@@ -1,0 +1,17 @@
+# AI / agent governance
+agent.md
+AGENTS.md
+
+# Internal process / implementation docs
+docs/frontend/
+docs/golang/
+docs/implementation/
+docs/deployment/
+docs/event-data-schema.md
+docs/manual-timeline-calibration-mvp-spec.md
+
+# Keep API docs
+!docs/api/
+!docs/api/openapi.yaml
+!docs/api/timestamps_api.md
+!docs/api/postman_guide.md
